@@ -17,3 +17,4 @@
 (111:17B4|||222;28C5|||555>5;F8)[mee]
 (CGFCGCGG111:17B4)[me]
 (111:17FB|||222;28GC|||555>5;JF)[mee]
+(CGFCGCGG111:17FB)[viktor laptop ]
